@@ -1,5 +1,6 @@
 // Program with various sorting algorithms.
 // All algorithms are assumed to sort in-place.
+#pragma once
 
 #include <stdlib.h>
 
