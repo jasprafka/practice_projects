@@ -18,6 +18,6 @@ Projects in python.
 
 Ideas for projects you could write.
 
-[ ] Data serializer 
+- [ ] Data serializer 
 
 Probably written in C. Serialize data so each item takes up one line in a file. If each item is a struct or object, the members are delimited by space characters (or maybe by underscores/semicolons, because it's easier to see visually if you have too many semicolons as compared to whitespace. Might not matter?).
