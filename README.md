@@ -21,3 +21,4 @@ Ideas for projects you could write.
 - [ ] Data serializer
 - [ ] csv parser
 - [ ] string implementation w/ bounds checking and utility fn's
+- [ ] Advent of Code mini-projects (there are many of these! Good for learning new languages).
