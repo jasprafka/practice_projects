@@ -20,3 +20,4 @@ Ideas for projects you could write.
 
 - [ ] Data serializer
 - [ ] csv parser
+- [ ] string implementation w/ bounds checking and utility fn's
